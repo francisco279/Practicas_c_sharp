@@ -1,0 +1,14 @@
+D:\practicas\POO\POO1\POO1\bin\Debug\POO1.exe.config
+D:\practicas\POO\POO1\POO1\bin\Debug\POO1.exe
+D:\practicas\POO\POO1\POO1\bin\Debug\POO1.pdb
+D:\practicas\POO\POO1\POO1\obj\Debug\POO1.csprojAssemblyReference.cache
+D:\practicas\POO\POO1\POO1\obj\Debug\POO1.Form1.resources
+D:\practicas\POO\POO1\POO1\obj\Debug\POO1.Properties.Resources.resources
+D:\practicas\POO\POO1\POO1\obj\Debug\POO1.csproj.GenerateResource.cache
+D:\practicas\POO\POO1\POO1\obj\Debug\POO1.csproj.CoreCompileInputs.cache
+D:\practicas\POO\POO1\POO1\obj\Debug\POO1.exe
+D:\practicas\POO\POO1\POO1\obj\Debug\POO1.pdb
+D:\practicas\POO\POO1\POO1\obj\Debug\POO1.Forms.AltaEmpleados.resources
+D:\practicas\POO\POO1\POO1\obj\Debug\POO1.Forms.ALtaChofer.resources
+D:\practicas\POO\POO1\POO1\obj\Debug\POO1.Forms.AltaProfesor.resources
+D:\practicas\POO\POO1\POO1\obj\Debug\POO1.Forms.MostrarDatos.resources

@@ -1,0 +1,10 @@
+D:\practicas\POO\Login\Login\bin\Debug\Login.exe.config
+D:\practicas\POO\Login\Login\bin\Debug\Login.exe
+D:\practicas\POO\Login\Login\bin\Debug\Login.pdb
+D:\practicas\POO\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+D:\practicas\POO\Login\Login\obj\Debug\Login.Form1.resources
+D:\practicas\POO\Login\Login\obj\Debug\Login.Properties.Resources.resources
+D:\practicas\POO\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\practicas\POO\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\practicas\POO\Login\Login\obj\Debug\Login.exe
+D:\practicas\POO\Login\Login\obj\Debug\Login.pdb

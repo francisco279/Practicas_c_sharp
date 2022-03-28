@@ -1,0 +1,10 @@
+D:\practicas\POO\SaveFechas\SaveFechas\bin\Debug\SaveFechas.exe.config
+D:\practicas\POO\SaveFechas\SaveFechas\bin\Debug\SaveFechas.exe
+D:\practicas\POO\SaveFechas\SaveFechas\bin\Debug\SaveFechas.pdb
+D:\practicas\POO\SaveFechas\SaveFechas\obj\Debug\SaveFechas.csprojAssemblyReference.cache
+D:\practicas\POO\SaveFechas\SaveFechas\obj\Debug\SaveFechas.Form1.resources
+D:\practicas\POO\SaveFechas\SaveFechas\obj\Debug\SaveFechas.Properties.Resources.resources
+D:\practicas\POO\SaveFechas\SaveFechas\obj\Debug\SaveFechas.csproj.GenerateResource.cache
+D:\practicas\POO\SaveFechas\SaveFechas\obj\Debug\SaveFechas.csproj.CoreCompileInputs.cache
+D:\practicas\POO\SaveFechas\SaveFechas\obj\Debug\SaveFechas.exe
+D:\practicas\POO\SaveFechas\SaveFechas\obj\Debug\SaveFechas.pdb

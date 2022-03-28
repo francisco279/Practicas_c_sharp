@@ -1,0 +1,10 @@
+D:\practicas\POO\CRUD_POO2\CRUD_POO2\bin\Debug\CRUD_POO2.exe.config
+D:\practicas\POO\CRUD_POO2\CRUD_POO2\bin\Debug\CRUD_POO2.exe
+D:\practicas\POO\CRUD_POO2\CRUD_POO2\bin\Debug\CRUD_POO2.pdb
+D:\practicas\POO\CRUD_POO2\CRUD_POO2\obj\Debug\CRUD_POO2.csprojAssemblyReference.cache
+D:\practicas\POO\CRUD_POO2\CRUD_POO2\obj\Debug\CRUD_POO2.Form1.resources
+D:\practicas\POO\CRUD_POO2\CRUD_POO2\obj\Debug\CRUD_POO2.Properties.Resources.resources
+D:\practicas\POO\CRUD_POO2\CRUD_POO2\obj\Debug\CRUD_POO2.csproj.GenerateResource.cache
+D:\practicas\POO\CRUD_POO2\CRUD_POO2\obj\Debug\CRUD_POO2.csproj.CoreCompileInputs.cache
+D:\practicas\POO\CRUD_POO2\CRUD_POO2\obj\Debug\CRUD_POO2.exe
+D:\practicas\POO\CRUD_POO2\CRUD_POO2\obj\Debug\CRUD_POO2.pdb

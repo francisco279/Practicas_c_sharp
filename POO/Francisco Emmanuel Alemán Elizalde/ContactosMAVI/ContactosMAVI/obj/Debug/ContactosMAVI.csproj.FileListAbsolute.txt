@@ -1,0 +1,11 @@
+C:\Users\Franc\OneDrive\Escritorio\ContactosMAVI\ContactosMAVI\bin\Debug\ContactosMAVI.exe.config
+C:\Users\Franc\OneDrive\Escritorio\ContactosMAVI\ContactosMAVI\bin\Debug\ContactosMAVI.exe
+C:\Users\Franc\OneDrive\Escritorio\ContactosMAVI\ContactosMAVI\bin\Debug\ContactosMAVI.pdb
+C:\Users\Franc\OneDrive\Escritorio\ContactosMAVI\ContactosMAVI\obj\Debug\ContactosMAVI.csprojAssemblyReference.cache
+C:\Users\Franc\OneDrive\Escritorio\ContactosMAVI\ContactosMAVI\obj\Debug\ContactosMAVI.Form1.resources
+C:\Users\Franc\OneDrive\Escritorio\ContactosMAVI\ContactosMAVI\obj\Debug\ContactosMAVI.Properties.Resources.resources
+C:\Users\Franc\OneDrive\Escritorio\ContactosMAVI\ContactosMAVI\obj\Debug\ContactosMAVI.csproj.GenerateResource.cache
+C:\Users\Franc\OneDrive\Escritorio\ContactosMAVI\ContactosMAVI\obj\Debug\ContactosMAVI.csproj.CoreCompileInputs.cache
+C:\Users\Franc\OneDrive\Escritorio\ContactosMAVI\ContactosMAVI\obj\Debug\ContactosMAVI.exe
+C:\Users\Franc\OneDrive\Escritorio\ContactosMAVI\ContactosMAVI\obj\Debug\ContactosMAVI.pdb
+C:\Users\Franc\OneDrive\Escritorio\ContactosMAVI\ContactosMAVI\obj\Debug\ContactosMAVI.Formularios.Form2.resources

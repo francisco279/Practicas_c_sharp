@@ -1,0 +1,11 @@
+D:\practicas\POO\EJEMPLO\EJEMPLO\bin\Debug\EJEMPLO.exe.config
+D:\practicas\POO\EJEMPLO\EJEMPLO\bin\Debug\EJEMPLO.exe
+D:\practicas\POO\EJEMPLO\EJEMPLO\bin\Debug\EJEMPLO.pdb
+D:\practicas\POO\EJEMPLO\EJEMPLO\obj\Debug\EJEMPLO.csprojAssemblyReference.cache
+D:\practicas\POO\EJEMPLO\EJEMPLO\obj\Debug\EJEMPLO.Form1.resources
+D:\practicas\POO\EJEMPLO\EJEMPLO\obj\Debug\EJEMPLO.Properties.Resources.resources
+D:\practicas\POO\EJEMPLO\EJEMPLO\obj\Debug\EJEMPLO.csproj.GenerateResource.cache
+D:\practicas\POO\EJEMPLO\EJEMPLO\obj\Debug\EJEMPLO.csproj.CoreCompileInputs.cache
+D:\practicas\POO\EJEMPLO\EJEMPLO\obj\Debug\EJEMPLO.exe
+D:\practicas\POO\EJEMPLO\EJEMPLO\obj\Debug\EJEMPLO.pdb
+D:\practicas\POO\EJEMPLO\EJEMPLO\obj\Debug\EJEMPLO.FORMULARIOS.Form2.resources

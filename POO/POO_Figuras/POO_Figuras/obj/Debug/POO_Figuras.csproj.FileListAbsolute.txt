@@ -1,0 +1,7 @@
+C:\Users\Franc\source\repos\POO_Figuras\POO_Figuras\bin\Debug\POO_Figuras.exe.config
+C:\Users\Franc\source\repos\POO_Figuras\POO_Figuras\bin\Debug\POO_Figuras.exe
+C:\Users\Franc\source\repos\POO_Figuras\POO_Figuras\bin\Debug\POO_Figuras.pdb
+C:\Users\Franc\source\repos\POO_Figuras\POO_Figuras\obj\Debug\POO_Figuras.csprojAssemblyReference.cache
+C:\Users\Franc\source\repos\POO_Figuras\POO_Figuras\obj\Debug\POO_Figuras.csproj.CoreCompileInputs.cache
+C:\Users\Franc\source\repos\POO_Figuras\POO_Figuras\obj\Debug\POO_Figuras.exe
+C:\Users\Franc\source\repos\POO_Figuras\POO_Figuras\obj\Debug\POO_Figuras.pdb
